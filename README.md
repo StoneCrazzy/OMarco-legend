@@ -1,3 +1,4 @@
-## pule da ponte 👋
-estou fazendo esse curso no ensino medio e quero me matar
-nao estou aprendendo nada sobre a linguagem java, meu uso desse espaco e para pedir ajuda, isso nao e uma mensagem de boas vindas
+## procure um pscicologo 👋
+estou no curso do alura pela turma da primeira serie do ensino medio.
+estou aprendendo um pouquinho sobre o desinvolvimento de linguagem de programacao em javascript
+uso este espaco para compartilhar meus projetos e ideias.
