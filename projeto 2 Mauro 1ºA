@@ -1,0 +1,44 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);     
+}function draw() {
+    background("purple");
+    
+    rect(0, 10, 100, 150);
+}function draw() {
+    background("purple");
+    
+    stroke("red") 
+    fill("black") 
+    rect(0, 10, 100, 150)
+}function draw() {
+  background(220);
+  
+  stroke("purple");
+  fill("black");
+  rect(mouseX, mouseY, 100, 150);
+}function draw() {
+  background(220);
+  
+  stroke("blue");
+  fill("red");
+  
+  console.log(mouseIsPressed);
+  rect(mouseX, mouseY, 100, 150);
+}function setup() {
+  createCanvas(400, 400);
+  background("white")
+}
+
+function draw() {
+  stroke("rgb(75,2,60)");
+  fill("rgb(0,0,0)");
+  
+  //eu definitivamente não gosto desta sala, obrigado
+  if (mouseIsPressed) {
+    rect(mouseX, mouseY, 20, 35);
+  }
+}
